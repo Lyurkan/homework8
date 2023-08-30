@@ -1,3 +1,7 @@
+package com.lyurkan;
+
+import com.lyurkan.game.*;
+
 public class Demo {
 
     public static void main(String[] args) {
